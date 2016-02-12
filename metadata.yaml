@@ -1,0 +1,24 @@
+_repo: She-Stoops-to-Conquer-Or-The-Mistakes-of-a-Night-A-Comedy_383
+creator:
+  author:
+    agent_name: Goldsmith, Oliver
+    alias: Goldsmit, Oliver
+    deathdate: 1774
+    gutenberg_agent_id: '211'
+    url: http://www.gutenberg.org/2009/agents/211
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '1995-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PR'
+title: 'She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy'
+url: http://www.gutenberg.org/ebooks/383
