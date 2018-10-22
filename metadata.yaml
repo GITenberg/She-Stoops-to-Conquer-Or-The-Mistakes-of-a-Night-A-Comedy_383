@@ -1,5 +1,5 @@
 _repo: She-Stoops-to-Conquer-Or-The-Mistakes-of-a-Night-A-Comedy_383
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Comedies'
 - !lcc 'PR'
+- GITenberg
 title: 'She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy'
 url: http://www.gutenberg.org/ebooks/383
